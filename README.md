@@ -2,7 +2,7 @@ AusLockdown is a community with fortnightly events, started during the pandemic 
 
 Join us on discord for chats, latest updates on events, and voice chat during games. 
 
-<a href="https://discord.gg/GAwWUDe"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
+<a href="https://discord.gg/GAwWUDe"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a> [https://discord.gg/GAwWUDe](https://discord.gg/GAwWUDe)
 
 ## Next Event
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3ZyMWgwdXBla2tiZWRkZmtldTF2cjd0YmUgNWdraTdsb2VjMmI3Y243N24zbzU2bmUzNGNAZw&amp;tmsrc=5gki7loec2b7cn77n3o56ne34c%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
