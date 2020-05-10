@@ -1,5 +1,3 @@
-## An group for game night events
-
 AusLockdown is a community with fortnightly events, started during the pandemic lockdowns, for a bunch of oldschool gamers to get together in games from many years ago.
 
 We've played games like Red Orchestra, Darkest Hour, and are planning more events for Day of Defeat, Medal Of Honor: Allied Assault, Call of Duty (original), Americas Army and Red Orchestra 2.
