@@ -1,4 +1,3 @@
-# AusLockdown
 AusLockdown is a community with fortnightly events, started during the pandemic lockdowns, for a bunch of oldschool gamers to get together in games from many years ago.
 
 Join us on discord for chats, latest updates on events, and voice chat during games. 
@@ -6,4 +5,10 @@ Join us on discord for chats, latest updates on events, and voice chat during ga
 https://discord.gg/GAwWUDe
 
 ## Next Event
-Americas Army 2.5
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3ZyMWgwdXBla2tiZWRkZmtldTF2cjd0YmUgNWdraTdsb2VjMmI3Y243N24zbzU2bmUzNGNAZw&amp;tmsrc=5gki7loec2b7cn77n3o56ne34c%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+
+## Subscribe to the calendar for all events
+<iframe src="https://calendar.google.com/calendar/embed?src=5gki7loec2b7cn77n3o56ne34c%40group.calendar.google.com&ctz=Australia%2FSydney" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+
