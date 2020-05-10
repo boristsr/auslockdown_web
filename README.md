@@ -5,7 +5,7 @@ We've played games like Red Orchestra, Darkest Hour, and are planning more event
 Join us on discord for chats, latest updates on events, and voice chat during games. 
 
 <a href="https://discord.gg/GAwWUDe"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a> [https://discord.gg/GAwWUDe](https://discord.gg/GAwWUDe)
- 
+
 ## Next Event
 Americas Army 2.5. May 25th, 7pm AEST.
 
