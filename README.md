@@ -16,4 +16,4 @@ TBD. May 25th, 7pm AEST.
 
 ## Screenshots
 
-<iframe src="https://titanembeds.com/embed/695433107372900433" height="600" width="800" frameborder="0"></iframe>
+<iframe src="https://titanembeds.com/embed/695433107372900433?defaultchannel=697393743069708288" height="600" width="800" frameborder="0"></iframe>
