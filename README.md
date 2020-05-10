@@ -1,4 +1,4 @@
-AusLockdown is a community to host game nights. Started during the pandemic lockdowns, we host fortnightly events for a bunch of oldschool gamers to get together in games from many years ago. We are based in Australia. Gamers young and old, from around the world are welcome.
+AusLockdown is a community that hosts game nights for some older games. Started during the pandemic lockdowns, we host fortnightly events for a bunch of oldschool gamers to get together in games from many years ago. We are based in Australia. Gamers young and old, from around the world are welcome.
 
 We've played games like Red Orchestra, Darkest Hour, and are planning more events for Day of Defeat, Medal Of Honor: Allied Assault, Call of Duty (original), Americas Army and Red Orchestra 2.
 
