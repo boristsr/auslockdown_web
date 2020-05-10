@@ -8,6 +8,7 @@ Join us on discord for chats, latest updates on events, and voice chat during ga
 
 ## Next Event
 Americas Army 2.5. May 25th, 7pm AEST.
+
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3ZyMWgwdXBla2tiZWRkZmtldTF2cjd0YmUgNWdraTdsb2VjMmI3Y243N24zbzU2bmUzNGNAZw&amp;tmsrc=5gki7loec2b7cn77n3o56ne34c%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
 ## Subscribe to the calendar for all events
